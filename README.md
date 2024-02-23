@@ -1,6 +1,8 @@
 # Computing-WA
 
-Playlist: 
+Playlist: https://www.youtube.com/playlist?list=PLSgaCJN8lF7npjNcMf4afla0KVq_bwiP8
+
+Google Drive of the videos (Since youtube has a limit): https://drive.google.com/drive/u/4/folders/12TeWKMf-YQFpiu8hkBjOsKkXpfF6T5RS
 
 Task 1 Bonus Questions: https://colab.research.google.com/drive/1rceCIchYS5TkWayRgAR2kSKoNoCemz8D?authuser=4#scrollTo=0cNGenxgUxDN
 
