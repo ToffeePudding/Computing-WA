@@ -8,4 +8,4 @@ Task 2 Bonus Questions: https://colab.research.google.com/drive/1XmyF_9XZh3QymB5
 
 Task 3 Bonus Questions: https://colab.research.google.com/drive/1nIPWUFtBO9aYlUWG2ciiNOCP-4K6GROV?authuser=4#scrollTo=n6Dm2bgSrXkZ
 
-Task 4 Bonus Questions: 
+Task 4 Bonus Questions: https://colab.research.google.com/drive/1KyO_B_fEAd7AQQHMtGa5p2mESXoWsTQj?authuser=4#scrollTo=8kc_Xf9iv7TS
